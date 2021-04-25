@@ -1,0 +1,14 @@
+E:\.net\Project(travel Booking)\Travel Booking\TravelBusinessLayer\bin\Debug\netstandard2.0\TravelBusinessLayer.deps.json
+E:\.net\Project(travel Booking)\Travel Booking\TravelBusinessLayer\bin\Debug\netstandard2.0\TravelBusinessLayer.dll
+E:\.net\Project(travel Booking)\Travel Booking\TravelBusinessLayer\bin\Debug\netstandard2.0\TravelBusinessLayer.pdb
+E:\.net\Project(travel Booking)\Travel Booking\TravelBusinessLayer\bin\Debug\netstandard2.0\TravelDataAccess.dll
+E:\.net\Project(travel Booking)\Travel Booking\TravelBusinessLayer\bin\Debug\netstandard2.0\TravelEntities.dll
+E:\.net\Project(travel Booking)\Travel Booking\TravelBusinessLayer\bin\Debug\netstandard2.0\TravelDataAccess.pdb
+E:\.net\Project(travel Booking)\Travel Booking\TravelBusinessLayer\bin\Debug\netstandard2.0\TravelEntities.pdb
+E:\.net\Project(travel Booking)\Travel Booking\TravelBusinessLayer\obj\Debug\netstandard2.0\TravelBusinessLayer.csprojAssemblyReference.cache
+E:\.net\Project(travel Booking)\Travel Booking\TravelBusinessLayer\obj\Debug\netstandard2.0\TravelBusinessLayer.AssemblyInfoInputs.cache
+E:\.net\Project(travel Booking)\Travel Booking\TravelBusinessLayer\obj\Debug\netstandard2.0\TravelBusinessLayer.AssemblyInfo.cs
+E:\.net\Project(travel Booking)\Travel Booking\TravelBusinessLayer\obj\Debug\netstandard2.0\TravelBusinessLayer.csproj.CoreCompileInputs.cache
+E:\.net\Project(travel Booking)\Travel Booking\TravelBusinessLayer\obj\Debug\netstandard2.0\TravelBusinessLayer.csproj.CopyComplete
+E:\.net\Project(travel Booking)\Travel Booking\TravelBusinessLayer\obj\Debug\netstandard2.0\TravelBusinessLayer.dll
+E:\.net\Project(travel Booking)\Travel Booking\TravelBusinessLayer\obj\Debug\netstandard2.0\TravelBusinessLayer.pdb

@@ -1,0 +1,43 @@
+﻿@model TravelEntities.Entities.Guest
+<!-- Banner -->
+<!-- gray bg -->
+<section class="container tm-home-section-1" id="more">
+    <div class="rowc section-margin-top">
+        <div class="col-sm-8">
+            <h1>Guest Details</h1>
+            <form action="AddNewGuest" method="post" id="GuestForm">
+                <div class="form-group">
+                    <label for="automation-input-first-name">First Name</label>
+                    @Html.TextBoxFor(x => x.GuestFirstName, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.GuestFirstName, "", new { id = "GuestFirstName_ErrorMessage", @class = "text-danger" })
+                </div>
+                <div class="form-group">
+                    <label for="automation-input-first-name">Last Name</label>
+                    @Html.TextBoxFor(x => x.GuestLastName, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.GuestLastName, "", new { id = "GuestLastName_ErrorMessage", @class = "text-danger" })
+                </div>
+                <div class="form-group">
+                    <label for="automation-input-first-name">Email address</label>
+                    @Html.TextBoxFor(x => x.Email, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.Email, "", new { id = "Email_ErrorMessage", @class = "text-danger" })
+                </div>
+                <div class="form-group">
+                    <label for="automation-input-first-name">Phone Number</label>
+                    @Html.TextBoxFor(x => x.MobileNumber, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.MobileNumber, "", new { id = "MobileNumber_ErrorMessage", @class = "text-danger" })
+                </div>
+
+                <button type="submit" class="automation-submit-checkout-btn tm-yellow-btn" onclick="submitForm();">Continue to check out</button>
+                </form>
+        </div>
+    </div>
+
+
+</section>
+
+<!-- white bg -->
+
+
+
+
+<script src="~/js/GuestJavaScript.js"></script>

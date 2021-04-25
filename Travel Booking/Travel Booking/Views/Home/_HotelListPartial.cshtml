@@ -1,0 +1,53 @@
+﻿@model List<TravelEntities.CustomEntities.DisplayHotels>
+@{
+    Layout = null;
+}
+
+
+
+@if (Model != null && Model.Count > 0)
+{
+    foreach (var item in Model)
+    {
+        
+        
+        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 col-xxs-12 automation-available-hotel-item">
+            <div class="tm-home-box-2">
+            <img src="@("~/Images/"+@item.HotelImage)" asp-append-version="true" class="img-responsive" />
+            
+            <p class="tm-date">28 March 2016</p>
+            <h2>@item.HotelName</h2>
+            <div class="tm-home-box-2-container">
+                <a href="#" class="tm-home-box-2-link"><i class="fa fa-heart tm-home-box-2-icon border-right"></i></a>
+                <a asp-action="HotelBooking" class="tm-home-box-2-link automation-book-hotel-now" onclick="bookTravel('@item.HotelId')"><span class="tm-home-box-2-description">Travel</span></a>
+                <a href="#" class="tm-home-box-2-link"><i class="fa fa-edit tm-home-box-2-icon border-left"></i></a>
+            </div>
+        </div>
+        </div>
+            
+    }
+}
+else
+{
+    <div>
+        No Available Hotels
+    </div>
+}
+
+<script>
+    function bookTravel(hotelId) {
+        var data = {
+            CheckInDate : $("#CheckIn").val(),
+            CheckOutDate : $("#CheckOut").val(),
+            CityId : $("#CityId").val(),
+            NoOfPeople: $("#NoOfPeople").val(),
+            HotelId: hotelId
+        }
+
+        $.post('@Url.ActionLink("HotelBooking","Home")', data, function (x) {
+            //alert(x);
+        });
+
+
+    }
+</script>

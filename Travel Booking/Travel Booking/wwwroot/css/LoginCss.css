@@ -1,0 +1,54 @@
+﻿body {
+    margin-top: 10%;
+    margin-left: 20%;
+    padding: 0;
+    overflow: hidden;
+    background: rgba(10, 180, 180, 1);
+    background-repeat: no-repeat;
+}
+h4{
+    color:black;
+    font-size:40px;
+}
+form {
+    width: 70%;
+    padding: 30px 0;
+    background: rgba(20, 40, 40, .8);
+    transition: .2s;
+   border-radius:10px;
+   
+}
+label {
+    font-weight: 300;
+    color:white;
+}
+.remember{
+    margin-left:-20%;
+}
+.form-group{
+    text-align:center;
+}
+input {
+    margin: 15px 0;
+    font-size: 16px;
+    padding: 10px;
+    width: 250px;
+    border: 1px solid rgba(10, 180, 180, 1);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background: rgba(20, 20, 20, .2);
+    color: white;
+    outline: none;
+}
+#join-btn {
+    border: 1px solid rgba(10, 180, 180, 1);
+    background: rgba(20, 20, 20, .6);
+    font-size: 18px;
+    color: white;
+    margin-top: 20px;
+    padding: 10px 50px;
+    cursor: pointer;
+    transition: .4s;
+    margin-right:30%;
+}

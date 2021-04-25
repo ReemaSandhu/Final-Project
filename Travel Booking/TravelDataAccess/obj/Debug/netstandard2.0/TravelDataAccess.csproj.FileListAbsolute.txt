@@ -1,0 +1,12 @@
+E:\.net\Project(travel Booking)\Travel Booking\TravelDataAccess\bin\Debug\netstandard2.0\TravelDataAccess.deps.json
+E:\.net\Project(travel Booking)\Travel Booking\TravelDataAccess\bin\Debug\netstandard2.0\TravelDataAccess.dll
+E:\.net\Project(travel Booking)\Travel Booking\TravelDataAccess\bin\Debug\netstandard2.0\TravelDataAccess.pdb
+E:\.net\Project(travel Booking)\Travel Booking\TravelDataAccess\bin\Debug\netstandard2.0\TravelEntities.dll
+E:\.net\Project(travel Booking)\Travel Booking\TravelDataAccess\bin\Debug\netstandard2.0\TravelEntities.pdb
+E:\.net\Project(travel Booking)\Travel Booking\TravelDataAccess\obj\Debug\netstandard2.0\TravelDataAccess.csprojAssemblyReference.cache
+E:\.net\Project(travel Booking)\Travel Booking\TravelDataAccess\obj\Debug\netstandard2.0\TravelDataAccess.AssemblyInfoInputs.cache
+E:\.net\Project(travel Booking)\Travel Booking\TravelDataAccess\obj\Debug\netstandard2.0\TravelDataAccess.AssemblyInfo.cs
+E:\.net\Project(travel Booking)\Travel Booking\TravelDataAccess\obj\Debug\netstandard2.0\TravelDataAccess.csproj.CoreCompileInputs.cache
+E:\.net\Project(travel Booking)\Travel Booking\TravelDataAccess\obj\Debug\netstandard2.0\TravelDataAccess.csproj.CopyComplete
+E:\.net\Project(travel Booking)\Travel Booking\TravelDataAccess\obj\Debug\netstandard2.0\TravelDataAccess.dll
+E:\.net\Project(travel Booking)\Travel Booking\TravelDataAccess\obj\Debug\netstandard2.0\TravelDataAccess.pdb

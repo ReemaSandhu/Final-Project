@@ -1,0 +1,9 @@
+E:\.net\Project(travel Booking)\Travel Booking\TravelEntities\bin\Debug\netstandard2.0\TravelEntities.deps.json
+E:\.net\Project(travel Booking)\Travel Booking\TravelEntities\bin\Debug\netstandard2.0\TravelEntities.dll
+E:\.net\Project(travel Booking)\Travel Booking\TravelEntities\bin\Debug\netstandard2.0\TravelEntities.pdb
+E:\.net\Project(travel Booking)\Travel Booking\TravelEntities\obj\Debug\netstandard2.0\TravelEntities.csprojAssemblyReference.cache
+E:\.net\Project(travel Booking)\Travel Booking\TravelEntities\obj\Debug\netstandard2.0\TravelEntities.AssemblyInfoInputs.cache
+E:\.net\Project(travel Booking)\Travel Booking\TravelEntities\obj\Debug\netstandard2.0\TravelEntities.AssemblyInfo.cs
+E:\.net\Project(travel Booking)\Travel Booking\TravelEntities\obj\Debug\netstandard2.0\TravelEntities.csproj.CoreCompileInputs.cache
+E:\.net\Project(travel Booking)\Travel Booking\TravelEntities\obj\Debug\netstandard2.0\TravelEntities.dll
+E:\.net\Project(travel Booking)\Travel Booking\TravelEntities\obj\Debug\netstandard2.0\TravelEntities.pdb
